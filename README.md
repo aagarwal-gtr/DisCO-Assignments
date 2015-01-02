@@ -15,7 +15,7 @@ Write a Program that checks whether the given graph is a height balanced tree or
 vertex to be the root of the tree. Value of i has to be taken by the program using a scanf() statement. The
 output has to be displayed over the terminal. You can assume that the number of vertices in the whole
 graph to be less than 10.
-=================
+
 
 1. If graph is not tree output will be directly "Graph IS NOT A TREE".
 2. If graph is a tree the program will ask for the value of the root 'i'.
